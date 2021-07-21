@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Matt!
+
+- 🌱 I’m currently learning GraphQL and Scala
+- 💬 Ask me about my eating challenges!
+
+- 📫 How to reach me: 
+- Email: mattbaker12895@gmail.com
+- Phone: (901) 409-7880
 
 <!--
 **matt-shake-n-baker/matt-shake-n-baker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
